@@ -25,19 +25,19 @@ Writes personalized invitations to a file.
 
 Prints invitations to the console.
 
-"" Usage
+## Usage
 Clone this repository:
-´´´bash
+```bash
 git clone https://github.com/CarlosValerioM/Day-24-Wedding-Invites.git
-´´´
+```
 Navigate to the project directory:
-´´´bash
+```bash
 cd Invitations-Generator
-´´´
+```
 Run the script:
-´´´bash
+```bash
 python invite.py
-´´´
+```
 ## How It Works:
 The script imports guest names and an invitation template.
 
